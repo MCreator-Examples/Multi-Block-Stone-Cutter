@@ -1,4 +1,4 @@
-# multi-block-stone-cutter
+# Multi-block Stone Cutter
 A Mutli-block stone cutter example.
 
 # DOWNLOADS
